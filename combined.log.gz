@@ -1,0 +1,46 @@
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"\u001b[0mGET /user \u001b[33m404 \u001b[0m5.973 ms - 143\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m3.032 ms - 2\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mPOST /users \u001b[32m200 \u001b[0m0.881 ms - 2\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m0.338 ms - 28\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /users/1 \u001b[33m404 \u001b[0m0.766 ms - 146\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /user/1 \u001b[32m200 \u001b[0m1.004 ms - 26\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mPOST /users \u001b[32m200 \u001b[0m1.153 ms - 2\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /users \u001b[32m200 \u001b[0m0.253 ms - 61\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mDELETE /users/ \u001b[33m404 \u001b[0m0.327 ms - 148\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mDELETE /users/2 \u001b[33m404 \u001b[0m0.167 ms - 149\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mDELETE /user/2 \u001b[32m200 \u001b[0m0.672 ms - 2\u001b[0m\n","level":"info"}
+{"message":"Server opened at 127.0.0.1:3000","level":"info"}
+{"message":"\u001b[0mDELETE /api/v1/users \u001b[33m404 \u001b[0m3.066 ms - 154\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mGET /api/v1/users \u001b[32m200 \u001b[0m2.409 ms - 2\u001b[0m\n","level":"info"}
+{"message":"\u001b[0mPOST /api/v1/users \u001b[32m200 \u001b[0m0.993 ms - 2\u001b[0m\n","level":"info"}
